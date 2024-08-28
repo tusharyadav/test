@@ -64,5 +64,7 @@ public class Employee {
     }
 
 
-
+    public String getCountryCode() {
+        return location.toString();
+    }
 }

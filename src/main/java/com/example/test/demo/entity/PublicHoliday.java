@@ -28,5 +28,4 @@ public class PublicHoliday {
     @Column(nullable = false)
     private String description;
 
-    // Getters and Setters
 }

@@ -22,5 +22,5 @@ public class ErrorResponse {
         this.description = description;
     }
 
-    // Getters and setters
+
 }

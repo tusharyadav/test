@@ -8,6 +8,5 @@ public class Holiday {
     private String localName;
     private String name;
 
-    // Getters and setters
 }
 
