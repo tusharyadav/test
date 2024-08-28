@@ -23,11 +23,11 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   gh repo clone tusharyadav/test
 
 2. **Navigate to the project directory**
    ```bash
-   cd your-repository
+   cd test
 3. **Configure PostgreSQL**
    Ensure PostgreSQL is running.
    Create a database for the application (e.g., employee_db).
